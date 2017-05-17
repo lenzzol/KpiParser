@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/lenzzolalvarez/Documents/code/github/KpiParser/conf/application.conf,/Users/lenzzolalvarez/Documents/code/github/KpiParser/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/lenzzolalvarez/Documents/code/github/KpiParser/conf/logback.xml,/Users/lenzzolalvarez/Documents/code/github/KpiParser/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/lenzzolalvarez/Documents/code/github/KpiParser/conf/META-INF,/Users/lenzzolalvarez/Documents/code/github/KpiParser/target/scala-2.11/classes/META-INF)[0m
+[0m[[0mdebug[0m] [0m	(/Users/lenzzolalvarez/Documents/code/github/KpiParser/conf/prod.conf,/Users/lenzzolalvarez/Documents/code/github/KpiParser/target/scala-2.11/classes/prod.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/lenzzolalvarez/Documents/code/github/KpiParser/conf/routes,/Users/lenzzolalvarez/Documents/code/github/KpiParser/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/lenzzolalvarez/Documents/code/github/KpiParser/conf/META-INF/persistence.xml,/Users/lenzzolalvarez/Documents/code/github/KpiParser/target/scala-2.11/classes/META-INF/persistence.xml)[0m
